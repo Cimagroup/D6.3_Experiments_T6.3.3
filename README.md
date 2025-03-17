@@ -8,3 +8,16 @@ How to install everything:
 6. pip install . (this installs tdqual)
 7. Go to navground-blofun-main
 8. pip install . (this installs perdiver)
+
+How to run the experiments:
+
+In the 'Example_3_agents' and 'Example_5_agents' folders:
+
+1. run creating_poses.py
+2. run creating_signals.py
+
+In the 'Corridor', 'Cross' and 'CrossTorus' folders:
+
+1. run creating_dataset.py
+2. run creating_signals.py
+3. run cluster_analysis.py
