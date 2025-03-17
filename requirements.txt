@@ -1,0 +1,15 @@
+navground == 0.3.3
+matplotlib == 3.9.2
+scipy == 1.14.1
+tslearn == 0.6.3
+seaborn == 0.13.2
+gudhi == 3.10.1
+websockets == 13.0
+moviepy == 1.0.3
+cairosvg == 2.7.1
+shapely == 2.0.6
+NetworkX == 3.4.1
+h5py == 3.12.1 
+sktime[dl]
+POT
+umap-learn
